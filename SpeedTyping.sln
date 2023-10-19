@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedTyping.Console", "SpeedTyping.Console\SpeedTyping.Console.csproj", "{510AD065-028C-4EC1-9BA2-1AD923C53E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{510AD065-028C-4EC1-9BA2-1AD923C53E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510AD065-028C-4EC1-9BA2-1AD923C53E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510AD065-028C-4EC1-9BA2-1AD923C53E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510AD065-028C-4EC1-9BA2-1AD923C53E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
